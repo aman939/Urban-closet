@@ -39,4 +39,4 @@ Urban-closet/
 ```
 
 ## Author
-* **Aman** – [@aman939](https://github.com)
+* **Aman Hidami** – https://github.com/aman939
