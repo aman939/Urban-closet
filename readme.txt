@@ -1,66 +1,42 @@
-It is a free HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
+# Urban Closet - Clothing Store eCommerce Website
 
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
+**Urban Closet** is a clothing store eCommerce web application designed for browsing apparel, viewing product details, and placing orders online.
 
+## Features
+* **Product Showcase:** Clean layout for browsing clothing collections, featured items, and styles.
+* **Interactive Shopping Flow:** Includes product pages, styling sections, and an order confirmation (`thank-you.html`) experience.
+* **Modern Typography & Icons:** Styled with Google Fonts, Bootstrap, and custom icon sets.
 
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE
+## Technologies Used
+* **HTML** – Page structure and semantic markup
+* **CSS ** – Styling, layout grids, and responsiveness
+* **JavaScript** – Interactive UI elements and navigation
 
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
+## Getting Started
 
-However, you can remove the credit link by paying for PRO version of the template which also includes additional pages.
+To run this project locally on your computer:
 
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/aman939/Urban-closet.git
+   ```
+2. **Open the project folder:**
+   ```bash
+   cd Urban-closet
+   ```
+3. **Launch the website:**
+   Open `index.html` in any web browser (or use the **Live Server** extension in VS Code).
 
-RIGHTS
+## Project Structure
+```text
+Urban-closet/
+├── css/              # Stylesheets (style.css, normalize.css, vendor.css)
+├── js/               # JavaScript files
+├── images/           # Product and banner images
+├── index.html        # Main homepage
+├── styles.html       # Styles showcase page
+└── thank-you.html    # Order confirmation page
+```
 
-You are allowed to use it in your personal projects and commercial projects.
-
-You can modify and sell it to your clients.
-
-
-PROHIBITIONS
-
-You cannot remove the credit link which links back to templatesjungle.com.
-
-You are not permitted to resell or redistribute (paid or free) as it is. 
-
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
-
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
-
-You cannot host the download file in your website.
-
-
-SUPPORT
-
-You can contact us to report any bugs and errors in the template. We will try and fix them immediately although it's a free resource.
-
-Feel free to let us know about what you want to see in the future downloads. We will definitely give it a thought while creating our next freebie.
-
-
-CREDITS & REFERENCES
-
-https://getbootstrap.com/
-
-Stock Photos
-https://unsplash.com/
-https://www.freepik.com/
-https://www.pexels.com/
-
-Fonts
-Google fonts
-https://fonts.google.com/
-
-Icons
-https://icomoon.io/
-
-JQuery Plugins
-
-Swiper Slider - https://swiperjs.com/
-Slick Slider - https://kenwheeler.github.io/slick/
-Chocolat.js – a Free Lightbox Plugin -http://chocolat.insipi.de/
-Magnific Lightbox - https://github.com/dimsemenov/Magnific-Popup
-
-Thanks for downloading from TemplatesJungle.com !
-
-
+## Author
+* **Aman** – [@aman939](https://github.com)
